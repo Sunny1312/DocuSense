@@ -1,0 +1,18 @@
+Surya Sunanda Meesala
+Email: surya@example.com | Phone: +91-9876543210
+
+Education:
+- B.Tech in Computer Science, VIT AP University, 2021–2025
+
+Skills:
+- Java, Python, HTML, CSS, JavaScript
+- MongoDB, React, Node.js
+- Basic Data Structures and Algorithms
+
+Projects:
+- Wise Wallet: A budgeting app that helps users manage expenses.
+- Plan It: A task management web application.
+
+Certifications:
+- Full Stack Development by SmartInternz
+- MongoDB Associate Certification
