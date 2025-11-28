@@ -32,7 +32,7 @@ app = FastAPI(title="DocuSense API", version="1.0.0")
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],  # React dev server
+    allow_origins=["*"],  # Allow all origins for now, restrict later
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -729,13 +729,3 @@ async def general_exception_handler(request: Request, exc: Exception):
         "detail": "An unexpected error occurred. Please try again later.",
         "timestamp": datetime.utcnow().isoformat() + "Z"
     }
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(
-        "main:app",
-        host="127.0.0.1",
-        port=8000,
-        reload=True,
-        log_level="info"
-    )
