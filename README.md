@@ -368,7 +368,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact & Support
 
-**Developer**: Sunny  
+**Developer**: Surya Sunanda Meesala  
 **GitHub**: [@Sunny1312](https://github.com/Sunny1312)  
 **Project Link**: [https://github.com/Sunny1312/DocuSense](https://github.com/Sunny1312/DocuSense)  
 **Live Demo**: [https://docu-sense-two.vercel.app/](https://docu-sense-two.vercel.app/)
@@ -381,7 +381,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🚀 **[TRY DOCUSENSE NOW](https://docu-sense-two.vercel.app/)** 🚀
 
-Made with ❤️ and ☕ by Sunny
+Made with ❤️ and ☕ by Surya Sunanda Meesala
 
 [![GitHub stars](https://img.shields.io/github/stars/Sunny1312/DocuSense?style=social)](https://github.com/Sunny1312/DocuSense/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Sunny1312/DocuSense?style=social)](https://github.com/Sunny1312/DocuSense/network/members)
