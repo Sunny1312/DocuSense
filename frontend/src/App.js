@@ -8,7 +8,7 @@ import {
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, 
          BarChart, Bar, PieChart as RechartsPie, Cell, Legend } from "recharts";
 
-const API_URL = "http://127.0.0.1:8000"; // Base URL without /api prefix
+const API_URL = "https://docusense-backend-ej7w.onrender.com"; // Render backend URL
 
 // Job roles with their specific requirements
 const JOB_ROLES = {
