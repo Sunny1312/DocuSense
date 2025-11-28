@@ -74,7 +74,7 @@
 
 | Resume Analysis | Document Insights | Interview Prep |
 |:--------------:|:----------------:|:-------------:|
-| ![Resume](https://via.placeholder.com/300x200?text=Resume+Analysis) | ![Document](https://via.placeholder.com/300x200?text=Document+Analysis) | ![Interview](https://via.placeholder.com/300x200?text=Interview+Prep) |
+| <img width="1440" height="780" alt="image" src="https://github.com/user-attachments/assets/43f0e6d0-af4a-48ae-a1bd-c9a2e205b6e9" /> | <img width="1435" height="778" alt="image" src="https://github.com/user-attachments/assets/583eb4b7-2cef-4d1e-b7c3-f4d08e46d528" /> | <img width="1439" height="776" alt="image" src="https://github.com/user-attachments/assets/c68c68ee-77f7-45a2-a799-a673258df186" />|
 
 </div>
 
